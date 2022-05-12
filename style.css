@@ -1,0 +1,65 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #17A9E8;
+}
+
+section{
+	background-color: #fff;
+	margin-left: 12rem;
+	width: 60%;
+	height: 130%;
+	margin-bottom: 20px;
+}
+h1{
+	padding-top: 40px;
+	font-family: Maiandra GD;
+	font-weight: normal;
+}
+p{
+	margin-top: -35px;
+	font-family: Arial;
+	font-size: .9rem;
+}
+h2{
+	font-family: Lucida Sans Unicode;
+	font-weight: normal;
+	margin-left: 35px;
+}
+table{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+tr td ,li{
+	font-family: Lucida Sans;
+	font-size: .9rem;
+	padding: 4px;
+}
+.photo{
+	padding-top: 20px;
+}
+
+button{
+	padding: 4px;
+	margin-top: 25px;
+}
+
+h4{
+	padding-left: 20px;
+	font-family: Lucida Sans;
+	font-weight: normal;
+}
+ol{
+	padding-bottom:20px; 
+}
+
+
+
+
+
+
+
+
+
+
